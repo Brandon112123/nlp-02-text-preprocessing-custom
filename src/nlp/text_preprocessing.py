@@ -1,5 +1,9 @@
 """text_preprocessing.py - Project script (example).
 
+Author: Brandon Smith
+Date: 2026-10
+Course: Web Mining and Applied NLP
+
 Purpose
 
   Read text data, preprocess the text, compare raw and cleaned tokens,
